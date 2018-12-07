@@ -1,7 +1,7 @@
 # The Dedmore Project       
 This is ground zero for the repository for the development of TravisLi Luxury Travel.       
 
-**Branch**: Master       
+**Branch**: Default       
 **Project Type**: WordPress, Angular        
 **Version**: 1.0.0 as of Nov 15th, 2018            
 **Author**: Steve Berry, me@elwoodberry.com           
@@ -11,3 +11,6 @@ This is ground zero for the repository for the development of TravisLi Luxury Tr
 **Work Log**: [Learn More About]() Work Log      
   
 ---        
+
+## Summary       
+This is a super simple theme that just displays the brand. This theme can be used when making large updates to the site and you don't want the site to appear down.     

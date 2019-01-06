@@ -1,4 +1,4 @@
-# The Dedmore Project       
+# The Dedmore Projects       
 This is ground zero for the repository for the development of TravisLi Luxury Travel.       
 
 **Branch**: Master       
